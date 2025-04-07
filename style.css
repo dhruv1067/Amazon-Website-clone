@@ -170,4 +170,20 @@ span{
     color: #007185;
 }
 
-/*1:06:22*/
+/*shop-section*/
+.box{
+    height: 400px;
+    width: 23%;
+    background-color: white;
+    padding: 20px 0px 15px;
+}
+
+.shop-section{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+}
+
+.box-image{
+    height: 100px;
+}
